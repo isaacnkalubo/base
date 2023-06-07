@@ -1,0 +1,41 @@
+body{padding: 20px;
+margin: 20px;
+box-sizing: border-box;
+background: whitesmoke;}
+.navbar{width: 100%;
+align-items: center;
+background: white;
+display: flex;
+box-shadow: 0px 2px 2px 2px rgb(228, 228, 228);
+justify-content: space-around;}
+.nav ul{min-width: fit-content;
+font-size: 20px;
+align-items: center;
+}
+.nav li{display: inline-block;
+padding-left: 40px;}
+.nav a{font-size: 20px ;
+text-decoration: none;
+text-transform: capitalize;
+font-weight: 300;
+color: black;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+.account{float: right;
+font-size: 20px;}
+.logo h1{font-size: 30px;
+text-transform: uppercase;
+margin-left: 50px;
+padding-right: 20px;
+}
+.search{text-align: center;}
+.search h1{font-size: 80px;
+text-transform: capitalize;
+letter-spacing: 5px;
+font-weight: 600;
+font-family: 'Courier New', Courier, monospace;
+padding-top: 40px;}
+.search p{font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+padding: 0 60px;
+transform: translateY(-45px);}
+
+
